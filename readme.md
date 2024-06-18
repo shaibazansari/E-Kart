@@ -29,18 +29,27 @@ This project is a simple e-commerce website built with React, Redux, Node.js, an
 1. **Clone the repository:**
 
 ```bash
-git clone <repository-url>
-cd e-commerce-website
+git clone https://github.com/shaibazansari/E-Kart.git
+cd E-Kart
 ```
 
-2. **Install dependencies:**
+2. **Environment Variables:**
+    * **Client Environment:**
+        - Navigate to the `client` directory:
+        - Rename `.env.example` to `.env`:
+
+    * **Server Environment:**
+        - Navigate to the `server` directory:
+        - Rename `config.env.example` to `config.env`:
+
+3. **Install dependencies:**
 ```bash
 npm install
 npm run install:client
 npm run install:server
 ```
 
-3. **Start the development servers:**
+4. **Start the development servers:**
 ```bash
 npm run dev
 ```
