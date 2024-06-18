@@ -1,6 +1,6 @@
-# E-Commerce Website
+# E-Kart
 
-This project is a simple e-commerce website built with React, Redux, Node.js, and SQLite with Sequelize ORM. The application displays various products categorized by their respective categories, allows users to add them to the cart, and proceed to checkout by collecting basic user information.
+This project is a simple e-commerce website (E-Kart) built with React, Redux, Node.js, and SQLite with Sequelize ORM. The application displays various products categorized by their respective categories, allows users to add them to the cart, and proceed to checkout by collecting basic user information.
 
 ## Table of Contents
 
